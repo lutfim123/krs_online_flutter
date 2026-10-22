@@ -8,9 +8,9 @@ Aplikasi ini mensimulasikan proses pengisian Kartu Rencana Studi (KRS) mahasiswa
 
 ## Identitas Mahasiswa
 
-- **Nama:** [Nama Mahasiswa]
-- **NIM:** [NIM Mahasiswa]
-- **Kelas:** [Kelas Mahasiswa]
+- **Nama:** Muhammad Lutfi Maulana
+- **NIM:** 2495114039
+- **Kelas:** TI-5A
 - **Mata Kuliah:** Mobile Programming
 
 ---
